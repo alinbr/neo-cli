@@ -1,0 +1,23 @@
+{
+  "name": "MainNet",
+  "pollTime": "5000",
+  "sites": [
+    {
+      "protocol": "http",
+      "url": "localhost",
+      "location": "Singapore",
+      "port": "10001",
+      "locale": "sg",
+      "type": "RPC"
+    },
+    {
+      "protocol": "http",
+      "url": "localhost",
+      "location": "Singapore",
+      "port": "20001",
+      "locale": "sg",
+      "type": "RPC"
+    }
+    
+  ]
+}
